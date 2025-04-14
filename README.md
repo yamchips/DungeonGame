@@ -32,6 +32,12 @@ To solve this problem, I created:
 
 The Dungeon class uses player class and is composed of node class. A driver class is created and is used for asking for user inputs to run this game.
 
+The res folder contains:
+
+1. ExampleRun.pdf, which describes an example run.
+2. FinalDesign.pdf, which shows my project design in UML diagram.
+3. MANIFEST and project05.jar file, which are required by course submission requirement. 
+
 ## List of Features
 
 - Run the driver class, the program will ask user to choose gui mode or text-based mode. Type in "gui" or "text" to choose. Then, type in the parameters in the JTextField, in File menu, choose "Set Game" for one-player mode or "Set 2 player" for two-player mode. The program will build a dungeon model, then the game starts.
